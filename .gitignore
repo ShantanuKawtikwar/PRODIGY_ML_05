@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.onnx
+.venv/
+venv/
+env/
+data/
+.DS_Store
+Thumbs.db
+.vercel/
